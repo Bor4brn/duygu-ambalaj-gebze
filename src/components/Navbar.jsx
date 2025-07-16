@@ -8,7 +8,7 @@ export default function Navbar() {
         {/* Logo */}
         <Link href="/" className="block">
           <Image
-            src="/images/logo.png"
+            src="/images/6.png"
             alt="Duygu Ambalaj Gebze"
             width={180}
             height={60}
